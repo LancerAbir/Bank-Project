@@ -1,0 +1,29 @@
+
+.box {
+    margin: 0 100px;
+    border: 1px solid #ddd;
+    padding: 50px 50px;
+    border-radius: 10px;
+    box-shadow: 8px 7px 10px #999;
+}
+.heading-one {
+    /* font-size: 2.92vw; */
+    /* font-size: 2.5rem; */
+    /* font-size: 40px; */
+    /* font-size: 12px; */
+}
+
+.tran-box {
+    border-radius: 10px;
+    padding: 25px;
+    color: #fff;
+    box-shadow: 10px 10px 10px #999;
+}
+.tran-box h2 {
+    font-size: 40px;
+}
+.amount-box {
+    padding: 31px;
+    border-radius: 10px;
+    box-shadow: 10px 2px 9px #999;
+}
